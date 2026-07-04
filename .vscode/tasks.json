@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "debug-order-page",
+			"type": "shell",
+			"command": "c:/Users/ACER/OneDrive/Desktop/coolbreeze-ai/.venv/Scripts/python.exe",
+			"args": [
+				"_debug_order_page.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
